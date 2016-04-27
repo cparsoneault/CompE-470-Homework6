@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Chris/Documents/CompE470/Homework6/Homework6/tb_question1.xst" -ofn "C:/Users/Chris/Documents/CompE470/Homework6/Homework6/tb_question1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 tb_question1.ngc tb_question1.ngd  
